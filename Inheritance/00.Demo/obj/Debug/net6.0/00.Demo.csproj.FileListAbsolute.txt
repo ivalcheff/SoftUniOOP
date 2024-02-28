@@ -12,3 +12,4 @@ C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Inheritance\00.Demo\obj\Debug\net6
 C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Inheritance\00.Demo\obj\Debug\net6.0\00.Demo.pdb
 C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Inheritance\00.Demo\obj\Debug\net6.0\00.Demo.genruntimeconfig.cache
 C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Inheritance\00.Demo\obj\Debug\net6.0\ref\00.Demo.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Inheritance\00.Demo\obj\Debug\net6.0\00.Demo.sourcelink.json
