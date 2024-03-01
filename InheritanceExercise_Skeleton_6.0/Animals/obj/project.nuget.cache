@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/Fe0wBYgp9sFORJgbSnSSHxuplGvmb0O0Gqr/tO1wjSaM9Q0AXN9XOGDNMDVOjVrIVlH28+4qCbGjcylg1WHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

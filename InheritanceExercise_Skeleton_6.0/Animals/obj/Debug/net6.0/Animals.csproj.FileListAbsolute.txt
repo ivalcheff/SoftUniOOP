@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InheritanceExercise_Skeleton_6.0\Animals\obj\Debug\net6.0\ref\Animals.dll

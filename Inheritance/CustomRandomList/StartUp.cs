@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            RandomList strings = new RandomList(new List<string> { "sahjg", "asjhsa", "kash" });
+
+            Console.WriteLine(strings.RandomString());
+
+
+
         }
     }
 }
