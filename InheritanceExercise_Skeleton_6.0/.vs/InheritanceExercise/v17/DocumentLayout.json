@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\ClassDiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlayersAndMonsters\\ClassDiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,6 +133,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,19 +146,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Tomcat.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Tomcat.cs",
               "RelativeDocumentMoniker": "Animals\\Tomcat.cs",
@@ -166,12 +162,11 @@
               "RelativeToolTip": "Animals\\Tomcat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:19:14.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:19:14.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Kitten.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Kitten.cs",
               "RelativeDocumentMoniker": "Animals\\Kitten.cs",
@@ -179,12 +174,11 @@
               "RelativeToolTip": "Animals\\Kitten.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:18:14.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:18:14.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Frog.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Frog.cs",
               "RelativeDocumentMoniker": "Animals\\Frog.cs",
@@ -197,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Dog.cs",
               "RelativeDocumentMoniker": "Animals\\Dog.cs",
@@ -205,12 +199,11 @@
               "RelativeToolTip": "Animals\\Dog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:17:20.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:17:20.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Cat.cs",
               "RelativeDocumentMoniker": "Animals\\Cat.cs",
@@ -218,12 +211,11 @@
               "RelativeToolTip": "Animals\\Cat.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:15:25.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:15:25.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\StartUp.cs",
               "RelativeDocumentMoniker": "Animals\\StartUp.cs",
@@ -231,12 +223,11 @@
               "RelativeToolTip": "Animals\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:14:20.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:14:20.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Animals\\Animal.cs",
               "RelativeDocumentMoniker": "Animals\\Animal.cs",
@@ -244,12 +235,11 @@
               "RelativeToolTip": "Animals\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:02:24.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:02:24.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\StartUp.cs",
               "RelativeDocumentMoniker": "NeedForSpeed\\StartUp.cs",
@@ -257,12 +247,11 @@
               "RelativeToolTip": "NeedForSpeed\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:43:21.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:43:21.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Person\\Person.cs",
               "RelativeDocumentMoniker": "Person\\Person.cs",
@@ -270,12 +259,11 @@
               "RelativeToolTip": "Person\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T21:17:34.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T21:17:34.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CrossMotorcycle.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\CrossMotorcycle.cs",
               "RelativeDocumentMoniker": "NeedForSpeed\\CrossMotorcycle.cs",
@@ -283,12 +271,11 @@
               "RelativeToolTip": "NeedForSpeed\\CrossMotorcycle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:34:47.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:34:47.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RaceMotorcycle.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\RaceMotorcycle.cs",
               "RelativeDocumentMoniker": "NeedForSpeed\\RaceMotorcycle.cs",
@@ -296,8 +283,7 @@
               "RelativeToolTip": "NeedForSpeed\\RaceMotorcycle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:33:04.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:33:04.778Z"
             },
             {
               "$type": "Document",
@@ -309,25 +295,24 @@
               "RelativeToolTip": "NeedForSpeed\\Motorcycle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:30:51.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:30:51.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Vehicle.cs",
               "RelativeDocumentMoniker": "NeedForSpeed\\Vehicle.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Vehicle.cs",
               "RelativeToolTip": "NeedForSpeed\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T21:19:01.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Hero.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\Hero.cs",
@@ -335,12 +320,11 @@
               "RelativeToolTip": "PlayersAndMonsters\\Hero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T22:39:21.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T22:39:21.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Child.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Person\\Child.cs",
               "RelativeDocumentMoniker": "Person\\Child.cs",
@@ -348,12 +332,11 @@
               "RelativeToolTip": "Person\\Child.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T21:17:07.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T21:17:07.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Car.cs",
               "RelativeDocumentMoniker": "NeedForSpeed\\Car.cs",
@@ -366,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\ClassDiagram1.cd",
@@ -377,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "DarkKnight.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkKnight.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkKnight.cs",
@@ -389,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "DarkWizard.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkWizard.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkWizard.cs",
@@ -401,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Elf.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Elf.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\Elf.cs",
@@ -413,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Knight.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Knight.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\Knight.cs",
@@ -425,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "MuseElf.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\MuseElf.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\MuseElf.cs",
@@ -437,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "SoulMaster.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\SoulMaster.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\SoulMaster.cs",
@@ -449,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Wizard.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Wizard.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\Wizard.cs",
@@ -461,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "BladeKnight.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\BladeKnight.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\BladeKnight.cs",
@@ -473,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\StartUp.cs",
               "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
@@ -485,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Bear.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Bear.cs",
               "RelativeDocumentMoniker": "Zoo\\Bear.cs",
@@ -497,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "Gorilla.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Gorilla.cs",
               "RelativeDocumentMoniker": "Zoo\\Gorilla.cs",
@@ -509,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Snake.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Snake.cs",
               "RelativeDocumentMoniker": "Zoo\\Snake.cs",
@@ -521,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Lizard.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Lizard.cs",
               "RelativeDocumentMoniker": "Zoo\\Lizard.cs",
@@ -533,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Mammal.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Mammal.cs",
               "RelativeDocumentMoniker": "Zoo\\Mammal.cs",
@@ -545,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Reptile.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Reptile.cs",
               "RelativeDocumentMoniker": "Zoo\\Reptile.cs",
@@ -557,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Zoo\\Animal.cs",
               "RelativeDocumentMoniker": "Zoo\\Animal.cs",
@@ -569,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InheritanceExercise_Skeleton_6.0\\Person\\StartUp.cs",
               "RelativeDocumentMoniker": "Person\\StartUp.cs",
@@ -578,6 +561,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T21:23:32.57Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

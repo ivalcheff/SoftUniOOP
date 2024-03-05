@@ -2,7 +2,7 @@
 {
     public class Vehicle
     {
-        private double _fuelConsumption = 1.25;
+        private double _fuelConsumption;
         public Vehicle(int horsePower, double fuel)
         {
             HorsePower = horsePower;
