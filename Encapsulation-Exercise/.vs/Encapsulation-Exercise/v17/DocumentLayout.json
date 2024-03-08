@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\04.pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|solutionrelative:04.pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\04.pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|solutionrelative:04.pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\04.pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|solutionrelative:04.pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\04.pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C43F7B-367B-4B3E-BB24-98514410434D}|04.PizzaCalories\\04.PizzaCalories.csproj|solutionrelative:04.pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\03.shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|solutionrelative:03.shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\03.shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|solutionrelative:03.shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\03.shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCE43B0-61BF-4051-BD9B-AFD84E4D197C}|03.ShoppingSpree\\03.ShoppingSpree.csproj|solutionrelative:03.shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\01.classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|solutionrelative:01.classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\01.classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|solutionrelative:01.classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-exercise\\01.classboxdata\\01.classboxdata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18EF9869-1FD0-4926-9BC8-E794F874111B}|01.ClassBoxData\\01.ClassBoxData.csproj|solutionrelative:01.classboxdata\\01.classboxdata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Topping.cs",
+              "RelativeDocumentMoniker": "04.PizzaCalories\\Topping.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Topping.cs",
+              "RelativeToolTip": "04.PizzaCalories\\Topping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T22:18:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dough.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Dough.cs",
+              "RelativeDocumentMoniker": "04.PizzaCalories\\Dough.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Dough.cs",
+              "RelativeToolTip": "04.PizzaCalories\\Dough.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwDgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:36:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Pizza.cs",
+              "RelativeDocumentMoniker": "04.PizzaCalories\\Pizza.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Pizza.cs",
+              "RelativeToolTip": "04.PizzaCalories\\Pizza.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:32:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Program.cs",
+              "RelativeDocumentMoniker": "04.PizzaCalories\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\04.PizzaCalories\\Program.cs",
+              "RelativeToolTip": "04.PizzaCalories\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:31:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Person.cs",
+              "RelativeDocumentMoniker": "03.ShoppingSpree\\Person.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Person.cs",
+              "RelativeToolTip": "03.ShoppingSpree\\Person.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:26:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Program.cs",
+              "RelativeDocumentMoniker": "03.ShoppingSpree\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Program.cs",
+              "RelativeToolTip": "03.ShoppingSpree\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:26:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Product.cs",
+              "RelativeDocumentMoniker": "03.ShoppingSpree\\Product.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\03.ShoppingSpree\\Product.cs",
+              "RelativeToolTip": "03.ShoppingSpree\\Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:26:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\Box.cs",
+              "RelativeDocumentMoniker": "01.ClassBoxData\\Box.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\Box.cs",
+              "RelativeToolTip": "01.ClassBoxData\\Box.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:50:29.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "01.ClassBoxData",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\01.ClassBoxData.csproj",
+              "RelativeDocumentMoniker": "01.ClassBoxData\\01.ClassBoxData.csproj",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\01.ClassBoxData.csproj",
+              "RelativeToolTip": "01.ClassBoxData\\01.ClassBoxData.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T19:48:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\Program.cs",
+              "RelativeDocumentMoniker": "01.ClassBoxData\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Exercise\\01.ClassBoxData\\Program.cs",
+              "RelativeToolTip": "01.ClassBoxData\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:48:09.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

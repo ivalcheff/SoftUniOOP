@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\refint\04.PizzaCalories.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Encapsulation-Exercise\04.PizzaCalories\obj\Debug\net6.0\ref\04.PizzaCalories.dll

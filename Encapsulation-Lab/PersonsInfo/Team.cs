@@ -26,7 +26,7 @@ namespace PersonsInfo
         {
             if (person.Age < 40)
             { 
-                _firstTeam.Add(person); 
+                .Add(person); 
             }
             else
             {

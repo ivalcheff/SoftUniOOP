@@ -1,56 +1,52 @@
-﻿namespace AnimalFarm.Models
+﻿using System;
+
+namespace AnimalFarm.Models
 {
     public class Chicken
     {
-        public const int MinAge = 0;
-        public const int MaxAge = 15;
+        private const int MinAge = 0;
+        private const int MaxAge = 15;
 
-        protected string name;
-        internal int age;
+        private string name;
+        private int age;
 
         internal Chicken(string name, int age)
         {
-            this.name = name;
-            this.age = age;
+            Name = name;
+            Age = age;
         }
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
-
+            get => name;
             internal set
             {
-                this.name = value;
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException($"{nameof(Name)} cannot be empty.");
+                }
+                name = value;
             }
         }
 
         public int Age
         {
-            get
-            {
-                return this.age;
-            }
-
+            get => age;
             protected set
             {
-                this.age = value;
+                if (value < MinAge || value > MaxAge)
+                {
+                    throw new ArgumentException($"{nameof(Age)} should be between {MinAge} and {MaxAge}.");
+                }
+                age = value;
             }
         }
 
-        public double ProductPerDay
-        {
-			get
-			{				
-				return this.CalculateProductPerDay();
-			}
-        }
+        public double ProductPerDay => CalculateProductPerDay();
 
-        public double CalculateProductPerDay()
+        private double CalculateProductPerDay()
         {
-            switch (this.Age)
+            switch (Age)
             {
                 case 0:
                 case 1:

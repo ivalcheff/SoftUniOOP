@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\AnimalFarm_Skeleton_6.0\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

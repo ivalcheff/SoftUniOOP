@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-lab\\personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-lab\\personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-lab\\personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|solutionrelative:personsinfo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54019C92-B431-4DD2-8DD2-705D85E7F58D}|PersonsInfo\\PersonsInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\encapsulation-lab\\personsinfo\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "PersonsInfo\\Team.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\Team.cs",
               "RelativeToolTip": "PersonsInfo\\Team.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T23:28:39.684Z",
               "EditorCaption": ""
@@ -66,38 +66,36 @@
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\PersonsInfo.csproj",
               "RelativeToolTip": "PersonsInfo\\PersonsInfo.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T21:57:13.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T21:57:13.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PersonsInfo",
+              "Title": "PersonsInfo.csproj",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\PersonsInfo.csproj",
               "RelativeDocumentMoniker": "PersonsInfo\\PersonsInfo.csproj",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\PersonsInfo.csproj",
               "RelativeToolTip": "PersonsInfo\\PersonsInfo.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T21:53:16.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T21:53:16.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\Person.cs",
               "RelativeDocumentMoniker": "PersonsInfo\\Person.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\Person.cs",
               "RelativeToolTip": "PersonsInfo\\Person.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADYAAAAbAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwDYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T21:16:44.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Encapsulation-Lab\\PersonsInfo\\StartUp.cs",
               "RelativeDocumentMoniker": "PersonsInfo\\StartUp.cs",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "00.Demo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T19:11:19.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T19:11:19.451Z"
             }
           ]
         }

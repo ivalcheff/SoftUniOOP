@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\AnimalFarm_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A2AD9-BD29-4728-B2DE-DF94C86E5B2B}|AnimalFarm\\AnimalFarm.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\animalfarm_skeleton_6.0\\animalfarm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A2AD9-BD29-4728-B2DE-DF94C86E5B2B}|AnimalFarm\\AnimalFarm.csproj|solutionrelative:animalfarm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3A2AD9-BD29-4728-B2DE-DF94C86E5B2B}|AnimalFarm\\AnimalFarm.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\animalfarm_skeleton_6.0\\animalfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3A2AD9-BD29-4728-B2DE-DF94C86E5B2B}|AnimalFarm\\AnimalFarm.csproj|solutionrelative:animalfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalFarm\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeToolTip": "AnimalFarm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:41:25.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "RelativeDocumentMoniker": "AnimalFarm\\Models\\Chicken.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "RelativeToolTip": "AnimalFarm\\Models\\Chicken.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:26:35.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
