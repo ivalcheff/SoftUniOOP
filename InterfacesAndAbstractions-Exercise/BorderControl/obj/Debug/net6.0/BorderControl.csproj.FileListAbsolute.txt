@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\InterfacesAndAbstractions-Exercise\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
