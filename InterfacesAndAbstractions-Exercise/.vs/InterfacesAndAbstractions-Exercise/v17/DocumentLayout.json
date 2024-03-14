@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\collectionhierarchy\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\collectionhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\collectionhierarchy\\iremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\iremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\collectionhierarchy\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC881021-1E0E-492A-A31D-976385883422}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\explicitinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\explicitinterfaces\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\explicitinterfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\explicitinterfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4CBE3-F950-4E0C-B761-DEF653F0B0C9}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A64CA32A-3EF1-461D-B6AA-B323B0862D2A}|BorderControl\\BorderControl.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\bordercontrol\\bordercontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -63,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\interfacesandabstractions-exercise\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{473FC2CC-BD11-42A1-B60C-95ED0B1103A1}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -78,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,46 +118,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pet.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Pet.cs",
-              "RelativeDocumentMoniker": "BorderControl\\Models\\Pet.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Pet.cs",
-              "RelativeToolTip": "BorderControl\\Models\\Pet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "AddCollection.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\AddCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\AddCollection.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\AddCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\AddCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:38:59.941Z",
+              "WhenOpened": "2024-03-11T23:27:33.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBirthable.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IBirthable.cs",
-              "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\IBirthable.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IBirthable.cs",
-              "RelativeToolTip": "BorderControl\\Models\\Interfaces\\IBirthable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Title": "IRemove.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\IRemove.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\IRemove.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\IRemove.cs",
+              "RelativeToolTip": "CollectionHierarchy\\IRemove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:34:37.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Robot.cs",
-              "RelativeDocumentMoniker": "BorderControl\\Models\\Robot.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Robot.cs",
-              "RelativeToolTip": "BorderControl\\Models\\Robot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:16:51.64Z",
+              "WhenOpened": "2024-03-11T23:26:30.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\IAdd.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\IAdd.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\IAdd.cs",
+              "RelativeToolTip": "CollectionHierarchy\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:24:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\CollectionHierarchy\\Program.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:22:37.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\Citizen.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Citizen.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\Citizen.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:31:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\IPerson.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:29:47.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IResident.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\IResident.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\IResident.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\IResident.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\IResident.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:27:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\ExplicitInterfaces\\Program.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:13:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Citizen.cs",
               "RelativeDocumentMoniker": "BorderControl\\Models\\Citizen.cs",
@@ -138,98 +235,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BorderControl",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\BorderControl.csproj",
-              "RelativeDocumentMoniker": "BorderControl\\BorderControl.csproj",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\BorderControl.csproj",
-              "RelativeToolTip": "BorderControl\\BorderControl.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T00:13:45.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IIdentifiable.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
-              "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
-              "RelativeToolTip": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:14:05.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\StartUp.cs",
               "RelativeDocumentMoniker": "BorderControl\\StartUp.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\StartUp.cs",
               "RelativeToolTip": "BorderControl\\StartUp.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEMAAAAtAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T00:07:31.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\StartUp.cs",
-              "RelativeDocumentMoniker": "Telephony\\StartUp.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\StartUp.cs",
-              "RelativeToolTip": "Telephony\\StartUp.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:21:44.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\StartUp.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\StartUp.cs",
-              "RelativeToolTip": "PersonInfo\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T21:24:03.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Smartphone.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Models\\Smartphone.cs",
-              "RelativeDocumentMoniker": "Telephony\\Models\\Smartphone.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Models\\Smartphone.cs",
-              "RelativeToolTip": "Telephony\\Models\\Smartphone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:25:33.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IIdentifiable.cs",
-              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IIdentifiable.cs",
-              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
-              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IIdentifiable.cs",
-              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:04:52.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\Citizen.cs",
               "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
@@ -242,7 +261,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BorderControl.csproj",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\BorderControl.csproj",
+              "RelativeDocumentMoniker": "BorderControl\\BorderControl.csproj",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\BorderControl.csproj",
+              "RelativeToolTip": "BorderControl\\BorderControl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T00:13:45.021Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Robot.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:16:51.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Interfaces\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:34:37.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:14:05.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\BorderControl\\Models\\Pet.cs",
+              "RelativeToolTip": "BorderControl\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:38:59.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\StartUp.cs",
+              "RelativeDocumentMoniker": "Telephony\\StartUp.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\StartUp.cs",
+              "RelativeToolTip": "Telephony\\StartUp.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:21:44.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonInfo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:24:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Models\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Models\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Models\\Smartphone.cs",
+              "RelativeToolTip": "Telephony\\Models\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:25:33.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IIdentifiable.cs",
+              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:04:52.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IPerson.cs",
               "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
@@ -250,12 +378,11 @@
               "RelativeToolTip": "PersonInfo\\IPerson.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T21:27:34.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T21:27:34.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "IBrowser.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Interfaces\\IBrowser.cs",
               "RelativeDocumentMoniker": "Telephony\\Interfaces\\IBrowser.cs",
@@ -263,12 +390,11 @@
               "RelativeToolTip": "Telephony\\Interfaces\\IBrowser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:29:25.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:29:25.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "StationaryPhone.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Models\\StationaryPhone.cs",
               "RelativeDocumentMoniker": "Telephony\\Models\\StationaryPhone.cs",
@@ -276,12 +402,11 @@
               "RelativeToolTip": "Telephony\\Models\\StationaryPhone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:26:21.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:26:21.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "IBirthable.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\PersonInfo\\IBirthable.cs",
               "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
@@ -289,12 +414,11 @@
               "RelativeToolTip": "PersonInfo\\IBirthable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:05:57.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:05:57.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ICaller.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\InterfacesAndAbstractions-Exercise\\Telephony\\Interfaces\\ICaller.cs",
               "RelativeDocumentMoniker": "Telephony\\Interfaces\\ICaller.cs",
@@ -302,8 +426,7 @@
               "RelativeToolTip": "Telephony\\Interfaces\\ICaller.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:23:58.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:23:58.542Z"
             }
           ]
         }

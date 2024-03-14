@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\polymorphism-exercise\\1.vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|solutionrelative:1.vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\polymorphism-exercise\\1.vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|solutionrelative:1.vehicles\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\polymorphism-exercise\\1.vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|solutionrelative:1.vehicles\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\polymorphism-exercise\\1.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|solutionrelative:1.vehicles\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\polymorphism-exercise\\1.vehicles\\models\\interfaces\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0AEDF-B62A-4B57-B50A-50592D081614}|1.Vehicles\\1.Vehicles.csproj|solutionrelative:1.vehicles\\models\\interfaces\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDrivable.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Interfaces\\IDrivable.cs",
+              "RelativeDocumentMoniker": "1.Vehicles\\Models\\Interfaces\\IDrivable.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Interfaces\\IDrivable.cs",
+              "RelativeToolTip": "1.Vehicles\\Models\\Interfaces\\IDrivable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:23:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "1.Vehicles\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Truck.cs",
+              "RelativeToolTip": "1.Vehicles\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:32:51.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "1.Vehicles\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Car.cs",
+              "RelativeToolTip": "1.Vehicles\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:32:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "1.Vehicles\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Models\\Vehicle.cs",
+              "RelativeToolTip": "1.Vehicles\\Models\\Vehicle.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:23:39.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Program.cs",
+              "RelativeDocumentMoniker": "1.Vehicles\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Polymorphism-Exercise\\1.Vehicles\\Program.cs",
+              "RelativeToolTip": "1.Vehicles\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:45:15.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

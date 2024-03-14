@@ -70,10 +70,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Dough.cs",
@@ -83,8 +79,7 @@
               "RelativeToolTip": "04.PizzaCalories\\Dough.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAAwDgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:36:24.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T20:36:24.984Z"
             },
             {
               "$type": "Document",
@@ -96,8 +91,7 @@
               "RelativeToolTip": "04.PizzaCalories\\Pizza.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAAADcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:32:36.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T20:32:36.847Z"
             },
             {
               "$type": "Document",
@@ -109,8 +103,7 @@
               "RelativeToolTip": "04.PizzaCalories\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:31:32.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T20:31:32.456Z"
             },
             {
               "$type": "Document",
@@ -134,8 +127,7 @@
               "RelativeToolTip": "03.ShoppingSpree\\Program.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAACkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T23:26:18.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T23:26:18.015Z"
             },
             {
               "$type": "Document",

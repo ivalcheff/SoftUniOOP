@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\bin\Debug\net6.0\1.Vehicles.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\bin\Debug\net6.0\1.Vehicles.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\bin\Debug\net6.0\1.Vehicles.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\bin\Debug\net6.0\1.Vehicles.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\bin\Debug\net6.0\1.Vehicles.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\refint\1.Vehicles.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\1.Vehicles.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Polymorphism-Exercise\1.Vehicles\obj\Debug\net6.0\ref\1.Vehicles.dll
