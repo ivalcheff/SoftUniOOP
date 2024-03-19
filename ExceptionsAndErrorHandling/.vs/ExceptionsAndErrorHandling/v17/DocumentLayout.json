@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\ExceptionsAndErrorHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D62E2D-87DB-4B7D-AB1B-5499B19C40A4}|2.EnterNumbers\\2.EnterNumbers.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\exceptionsanderrorhandling\\2.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D62E2D-87DB-4B7D-AB1B-5499B19C40A4}|2.EnterNumbers\\2.EnterNumbers.csproj|solutionrelative:2.enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE2956A-B5E0-4C91-AE5D-DEFE25D2DCAF}|1.SquareRoot\\1.SquareRoot.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\exceptionsanderrorhandling\\1.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE2956A-B5E0-4C91-AE5D-DEFE25D2DCAF}|1.SquareRoot\\1.SquareRoot.csproj|solutionrelative:1.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\ExceptionsAndErrorHandling\\2.EnterNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "2.EnterNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\ExceptionsAndErrorHandling\\2.EnterNumbers\\Program.cs",
+              "RelativeToolTip": "2.EnterNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:22:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\ExceptionsAndErrorHandling\\1.SquareRoot\\Program.cs",
+              "RelativeDocumentMoniker": "1.SquareRoot\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\ExceptionsAndErrorHandling\\1.SquareRoot\\Program.cs",
+              "RelativeToolTip": "1.SquareRoot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:12:08.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

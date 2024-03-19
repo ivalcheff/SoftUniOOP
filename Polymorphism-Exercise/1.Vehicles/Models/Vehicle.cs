@@ -11,11 +11,15 @@ namespace _1.Vehicles.Models
     {
 		private double _fuelQuantity;
         private double _fuelConsumption;
+        private double _tankCapacity;
 
-        protected Vehicle(double fuelQuantity, double fuelConsumption)
+        
+
+        protected Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity)
         {
             FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
+            TankCapacity = tankCapacity;
         }
 
         public double FuelQuantity
@@ -27,7 +31,15 @@ namespace _1.Vehicles.Models
                 {
                     throw new ArgumentException("Fuel must be a positive number");
                 }
-                _fuelQuantity = value; 
+
+                if (value <= TankCapacity)
+                {
+                    _fuelQuantity = value;
+                }
+                else
+                {
+                    _fuelQuantity = 0;
+                }
             }
         }
 
@@ -44,7 +56,20 @@ namespace _1.Vehicles.Models
             }
         }
 
-        public void Drive(double distance)
+        public double TankCapacity
+        {
+            get { return _tankCapacity; }
+            protected set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Tank capacity can not be a negative number");
+                }
+                _tankCapacity = value;
+            }
+        }
+
+        public virtual void Drive(double distance)
         {
             double fuelNeeded = FuelConsumption * distance;
 
@@ -61,10 +86,15 @@ namespace _1.Vehicles.Models
 
         public virtual void Refuel(double fuel)
         {
-            if (fuel < 0)
-{
-                throw new ArgumentException(message: "Fuel must be a positive number");
+            if (fuel <= 0)
+            {
+                throw new ArgumentException("Fuel must be a positive number");
             }
+            else if (fuel + FuelQuantity > TankCapacity)
+            {
+                throw new ArgumentException($"Cannot fit {fuel} fuel in the tank");
+            }
+            
             FuelQuantity += fuel;
 
         }

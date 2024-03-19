@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\bin\Debug\net6.0\1.SquareRoot.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\bin\Debug\net6.0\1.SquareRoot.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\bin\Debug\net6.0\1.SquareRoot.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\bin\Debug\net6.0\1.SquareRoot.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\bin\Debug\net6.0\1.SquareRoot.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\refint\1.SquareRoot.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\1.SquareRoot.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ExceptionsAndErrorHandling\1.SquareRoot\obj\Debug\net6.0\ref\1.SquareRoot.dll

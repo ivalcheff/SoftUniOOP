@@ -10,13 +10,18 @@ namespace _1.Vehicles.Models
     {
         private const double FuelConsumptionMod = 1.6;
         private const double FuelLeak = 0.95;
-        public Truck(double fuelQuantity, double fuelConsumption) 
-            : base(fuelQuantity, fuelConsumption + FuelConsumptionMod)
+        public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity) 
+            : base(fuelQuantity, fuelConsumption + FuelConsumptionMod, tankCapacity)
         {
         }
 
         public override void Refuel(double fuel)
         {
+            if (FuelQuantity + fuel > TankCapacity)
+            {
+                throw new ArgumentException($"Cannot fit {fuel} fuel in the tank");
+            }
+
             base.Refuel(FuelLeak * fuel);
         }
     }
