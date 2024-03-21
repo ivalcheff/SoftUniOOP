@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\07.csharp-oop-solid-lab-skeleton_6.0\\p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamablefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISleeper.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\ISleeper.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\ISleeper.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\ISleeper.cs",
+              "RelativeToolTip": "P04.Recharge\\ISleeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:30:50.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Robot.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Robot.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Robot.cs",
+              "RelativeToolTip": "P04.Recharge\\Robot.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:28:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Employee.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Employee.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Employee.cs",
+              "RelativeToolTip": "P04.Recharge\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:26:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Worker.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Worker.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P04.Recharge\\Worker.cs",
+              "RelativeToolTip": "P04.Recharge\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:25:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\Manager.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Manager.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\Manager.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:18:33.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\Employee.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Employee.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\Employee.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:17:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:15:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Program.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Program.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:08:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphicEditor.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\GraphicEditor.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\GraphicEditor.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\GraphicEditor.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\GraphicEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:07:40.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Square.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Square.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Square.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:07:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Rectangle.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Rectangle.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:06:53.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Circle.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Circle.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\Circle.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:06:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\IShape.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\IShape.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P02.Graphic_Editor\\IShape.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:06:25.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\Music.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\Music.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\Music.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:03:46.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StreamProgressInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:03:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\File.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\File.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\File.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:58:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StreamableFile.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\StreamableFile.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamableFile.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\07.CSharp-OOP-SOLID-Lab-Skeleton_6.0\\P01.Stream_Progress\\StreamableFile.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\StreamableFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:59:23.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
