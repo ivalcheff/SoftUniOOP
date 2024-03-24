@@ -1,0 +1,12 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\bin\Debug\net6.0\LoggerLibrary.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\bin\Debug\net6.0\LoggerLibrary.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\bin\Debug\net6.0\LoggerLibrary.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\refint\LoggerLibrary.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\LoggerLibrary.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\Logger\LoggerLibrary\obj\Debug\net6.0\ref\LoggerLibrary.dll
