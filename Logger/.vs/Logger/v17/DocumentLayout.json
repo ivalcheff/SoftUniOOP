@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2DF527EB-47D4-4337-98E5-1DA6F2B9F586}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\logger\\loggerlibrary\\loggers\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\loggers\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\logger\\loggerlibrary\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\loggers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\logger\\loggerlibrary\\factories\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\factories\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\logger\\loggerlibrary\\loggers\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\loggers\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B724FF04-7B10-4CA9-89DC-7FFBE329A9A9}|LoggerLibrary\\LoggerLibrary.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\logger\\loggerlibrary\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoggerFactory.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Factories\\LoggerFactory.cs",
               "RelativeDocumentMoniker": "LoggerLibrary\\Factories\\LoggerFactory.cs",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "LoggerLibrary\\Factories\\LoggerFactory.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T20:33:20.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T20:33:20.217Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "LoggerLibrary\\Appenders\\FileAppender.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwBsAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T21:07:36.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T21:07:36.295Z"
             },
             {
               "$type": "Document",
@@ -94,14 +92,14 @@
               "RelativeDocumentMoniker": "Logger.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\Logger.ConsoleApp\\Program.cs",
               "RelativeToolTip": "Logger.ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAmwHoAAAAAAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwIcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T19:18:44.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleAppender.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Appenders\\ConsoleAppender.cs",
               "RelativeDocumentMoniker": "LoggerLibrary\\Appenders\\ConsoleAppender.cs",
@@ -109,12 +107,11 @@
               "RelativeToolTip": "LoggerLibrary\\Appenders\\ConsoleAppender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:49:13.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T19:49:13.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IAppender.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Appenders\\Interfaces\\IAppender.cs",
               "RelativeDocumentMoniker": "LoggerLibrary\\Appenders\\Interfaces\\IAppender.cs",
@@ -122,25 +119,24 @@
               "RelativeToolTip": "LoggerLibrary\\Appenders\\Interfaces\\IAppender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:45:57.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T19:45:57.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Loggers\\Logger.cs",
               "RelativeDocumentMoniker": "LoggerLibrary\\Loggers\\Logger.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Loggers\\Logger.cs",
               "RelativeToolTip": "LoggerLibrary\\Loggers\\Logger.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAswCUAAABRAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCUAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T19:26:34.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ILogger.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\Logger\\LoggerLibrary\\Loggers\\Interfaces\\ILogger.cs",
               "RelativeDocumentMoniker": "LoggerLibrary\\Loggers\\Interfaces\\ILogger.cs",
@@ -161,8 +157,7 @@
               "RelativeToolTip": "LoggerLibrary\\Models\\LogEntryLevel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:41:50.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T19:41:50.995Z"
             },
             {
               "$type": "Document",
@@ -174,8 +169,7 @@
               "RelativeToolTip": "LoggerLibrary\\Layouts\\XmlLayout.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T19:01:58.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T19:01:58.806Z"
             },
             {
               "$type": "Document",

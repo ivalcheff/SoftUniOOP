@@ -25,11 +25,6 @@ for (int i = 0; i < n; i++)
     string appenderType = appenderTokens[0];
     string layoutType = appenderTokens[1];
 
-    if (appenderTokens.Length > 2)
-    {
-        string reportLevel = appenderTokens[2];
-    }
-
     ILayout layout = new SimpleLayout();
     switch (layoutType)
     {
@@ -52,12 +47,22 @@ for (int i = 0; i < n; i++)
             break;
         case "FileAppender":
             appender = new FileAppender(layout);
-            break;
-        default:
-            Console.WriteLine("No valid appender type.");
-            break;
+            break;       
     }
 
+    if (appenderTokens.Length ==3)
+    {
+        string reportLevel = appenderTokens[2];
+        appender.LogLevel = reportLevel switch
+        {
+            "INFO" => LogEntryLevel.Info,
+            "WARNING" => LogEntryLevel.Warning,
+            "ERROR" => LogEntryLevel.Error,
+            "CRITICAL" => LogEntryLevel.Critical,
+            "FATAL" => LogEntryLevel.Fatal,
+            _ => appender.LogLevel
+        };
+    }
     appenders.Add(appender);
 }
 
@@ -91,8 +96,7 @@ while ((input = Console.ReadLine()) != "END")
 
 
 
-
-void InitializeWithoutFactory()
+static void InitializeWithoutFactory()
 {
     //instantiate the layouts, which take the string and format it in the desired way
     ILayout simpleLayout = new SimpleLayout();
