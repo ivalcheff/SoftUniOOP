@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\bin\Debug\net6.0\ActivatorCreate.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\refint\ActivatorCreate.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ActivatorCreate.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\ActivatorCreate\obj\Debug\net6.0\ref\ActivatorCreate.dll

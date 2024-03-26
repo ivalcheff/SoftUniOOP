@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\bin\Debug\net6.0\MethodReflection.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\bin\Debug\net6.0\MethodReflection.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\bin\Debug\net6.0\MethodReflection.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\bin\Debug\net6.0\MethodReflection.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\bin\Debug\net6.0\MethodReflection.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\refint\MethodReflection.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\MethodReflection.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\MethodReflection\obj\Debug\net6.0\ref\MethodReflection.dll

@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

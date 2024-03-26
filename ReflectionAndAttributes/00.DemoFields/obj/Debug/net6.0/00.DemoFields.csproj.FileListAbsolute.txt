@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\bin\Debug\net6.0\00.DemoFields.exe
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\bin\Debug\net6.0\00.DemoFields.deps.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\bin\Debug\net6.0\00.DemoFields.runtimeconfig.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\bin\Debug\net6.0\00.DemoFields.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\bin\Debug\net6.0\00.DemoFields.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.AssemblyInfo.cs
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.sourcelink.json
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\refint\00.DemoFields.dll
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.pdb
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\00.DemoFields.genruntimeconfig.cache
+C:\Users\nikol\Desktop\SoftUni\OOP\SoftUniOOP\ReflectionAndAttributes\00.DemoFields\obj\Debug\net6.0\ref\00.DemoFields.dll
