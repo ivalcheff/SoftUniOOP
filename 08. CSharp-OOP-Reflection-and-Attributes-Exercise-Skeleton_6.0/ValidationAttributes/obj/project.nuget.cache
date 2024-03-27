@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "05WcgXSXsfsiIWghecd8dMvL0GCTVUYGLd9V/UdYTFY3HiQ6VVrfYXbJmNpPWjjEHIxfATF7ymqMEJ32Hodv9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
