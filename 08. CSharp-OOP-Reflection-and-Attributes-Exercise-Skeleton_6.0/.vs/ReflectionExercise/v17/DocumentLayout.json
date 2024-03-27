@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6434B66-8D22-4B97-9153-5F4360B5C278}|ValidationAttributes\\ValidationAttributes.csproj|solutionrelative:validationattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\08. csharp-oop-reflection-and-attributes-exercise-skeleton_6.0\\commandpattern\\engines\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43D01CAD-5F3E-4393-BCDA-8373A35CED49}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\engines\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Validator.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Validator.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Validator.cs",
+              "RelativeToolTip": "ValidationAttributes\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:35:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Models\\Person.cs",
+              "RelativeToolTip": "ValidationAttributes\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:30:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:23:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:22:57.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "ValidationAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:20:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidationAttributes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\ValidationAttributes\\StartUp.cs",
+              "RelativeToolTip": "ValidationAttributes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:14:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CommandInterpreter.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\Interpreters\\CommandInterpreter.cs",
               "RelativeDocumentMoniker": "CommandPattern\\Interpreters\\CommandInterpreter.cs",
@@ -42,12 +144,11 @@
               "RelativeToolTip": "CommandPattern\\Interpreters\\CommandInterpreter.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:35:00.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T22:35:00.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\Engines\\Engine.cs",
               "RelativeDocumentMoniker": "CommandPattern\\Engines\\Engine.cs",
@@ -60,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\StartUp.cs",
               "RelativeDocumentMoniker": "CommandPattern\\StartUp.cs",
@@ -68,12 +169,11 @@
               "RelativeToolTip": "CommandPattern\\StartUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:40:13.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T22:40:13.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ExitCommand.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\Commands\\ExitCommand.cs",
               "RelativeDocumentMoniker": "CommandPattern\\Commands\\ExitCommand.cs",
@@ -81,12 +181,11 @@
               "RelativeToolTip": "CommandPattern\\Commands\\ExitCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:25:32.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T22:25:32.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "HelloCommand.cs",
               "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\\CommandPattern\\Commands\\HelloCommand.cs",
               "RelativeDocumentMoniker": "CommandPattern\\Commands\\HelloCommand.cs",
@@ -94,8 +193,7 @@
               "RelativeToolTip": "CommandPattern\\Commands\\HelloCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:21:02.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T22:21:02.644Z"
             }
           ]
         }
