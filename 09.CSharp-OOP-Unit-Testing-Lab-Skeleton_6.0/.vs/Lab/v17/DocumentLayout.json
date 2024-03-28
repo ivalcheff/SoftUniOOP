@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\09.csharp-oop-unit-testing-lab-skeleton_6.0\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\09.csharp-oop-unit-testing-lab-skeleton_6.0\\skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\09.csharp-oop-unit-testing-lab-skeleton_6.0\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA635815-59B6-43A6-A359-AD093B6A90E1}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton\\Dummy.cs",
+              "RelativeDocumentMoniker": "Skeleton\\Dummy.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton\\Dummy.cs",
+              "RelativeToolTip": "Skeleton\\Dummy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:02:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyTests.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\DummyTests.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\DummyTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:01:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AxeTests.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\AxeTests.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09.CSharp-OOP-Unit-Testing-Lab-Skeleton_6.0\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\AxeTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:32:10.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

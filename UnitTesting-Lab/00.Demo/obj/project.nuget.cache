@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WjkFzkp1CNfSaDS1TtJiW+7efK1yhA5jdeqxepcxn1Hx3eTz8AnzpcKuLqEl4bN5ZHhigicQgdW5hr+uPk+Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\UnitTesting-Lab\\00.Demo\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
