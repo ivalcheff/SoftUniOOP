@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SE36y67ngA/ugxAqEZcDB9cznInX7qUxK3mVx1GeTt7s6y1ESst/vL0eu5zfJqv21k/u/rsTZ3oFcACAyyb/RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\\CarManager\\CarManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
