@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\Calculator.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commands\\dividecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commands\\multiplycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commands\\minuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commands\\pluscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\designpatterns\\calculator\\commandpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC809281-2ABC-460E-8F9B-9C41D06074C8}|Calculator\\CommandPattern.csproj|solutionrelative:calculator\\commandpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivideCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\DivideCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\DivideCommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\DivideCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\DivideCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:30:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiplyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\MultiplyCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\MultiplyCommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\MultiplyCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\MultiplyCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:29:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:46:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\MinusCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\MinusCommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\MinusCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\MinusCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:40:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:30:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\PlusCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\PlusCommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\PlusCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\PlusCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:37:34.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T19:34:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommandPattern",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\CommandPattern.csproj",
+              "RelativeDocumentMoniker": "Calculator\\CommandPattern.csproj",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\CommandPattern.csproj",
+              "RelativeToolTip": "Calculator\\CommandPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T19:32:03.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

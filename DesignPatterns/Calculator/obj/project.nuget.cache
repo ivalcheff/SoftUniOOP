@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZmU4zXcvz/uugQJ621J1qjstmkvVGEL/gGhAKUR9kbzxskz3ol3Apv6dDTL96oIYB1rzRa4nQjYRNUQQWn40Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\DesignPatterns\\Calculator\\CommandPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

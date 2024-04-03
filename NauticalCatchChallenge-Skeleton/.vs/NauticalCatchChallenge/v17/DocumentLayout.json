@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\nauticalcatchchallenge-skeleton\\models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowJ4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:00:30.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Repositories\\DiverRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DiverRepository.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Repositories\\DiverRepository.cs",
+              "RelativeToolTip": "Repositories\\DiverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:41:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScubaDiver.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\ScubaDiver.cs",
+              "RelativeDocumentMoniker": "Models\\ScubaDiver.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\ScubaDiver.cs",
+              "RelativeToolTip": "Models\\ScubaDiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:27:46.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diver.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs",
+              "RelativeDocumentMoniker": "Models\\Diver.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\Diver.cs",
+              "RelativeToolTip": "Models\\Diver.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:43:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Models\\Fish.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\Fish.cs",
+              "RelativeToolTip": "Models\\Fish.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:13:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FishRepository.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Repositories\\FishRepository.cs",
+              "RelativeToolTip": "Repositories\\FishRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:42:21.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Core\\Engine.cs",
+              "RelativeToolTip": "Core\\Engine.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T00:00:47.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FreeDiver.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs",
+              "RelativeDocumentMoniker": "Models\\FreeDiver.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\FreeDiver.cs",
+              "RelativeToolTip": "Models\\FreeDiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:27:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeepSeaFish.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs",
+              "RelativeDocumentMoniker": "Models\\DeepSeaFish.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\DeepSeaFish.cs",
+              "RelativeToolTip": "Models\\DeepSeaFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:34:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PredatoryFish.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs",
+              "RelativeDocumentMoniker": "Models\\PredatoryFish.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\PredatoryFish.cs",
+              "RelativeToolTip": "Models\\PredatoryFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:34:13.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReefFish.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\ReefFish.cs",
+              "RelativeDocumentMoniker": "Models\\ReefFish.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Models\\ReefFish.cs",
+              "RelativeToolTip": "Models\\ReefFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:33:54.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
