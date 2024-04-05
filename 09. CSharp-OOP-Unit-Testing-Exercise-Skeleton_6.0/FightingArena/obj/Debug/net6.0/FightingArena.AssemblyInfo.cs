@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FightingArena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5b785893fecb137a5f8f1dd87cda8a0d8dd5dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e5e3cc450558a0eef3aa942ec92a0f79087ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FightingArena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FightingArena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

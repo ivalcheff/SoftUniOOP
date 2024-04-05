@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NauticalCatchChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8434780733ae34c6de7194cb19e27576cb2f1c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e5e3cc450558a0eef3aa942ec92a0f79087ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NauticalCatchChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NauticalCatchChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
