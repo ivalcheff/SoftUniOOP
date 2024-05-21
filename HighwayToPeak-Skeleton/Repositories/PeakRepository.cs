@@ -10,7 +10,7 @@ using System.Reflection;
 
 namespace HighwayToPeak.Repositories
 {
-    internal class PeakRepository : IRepository<IPeak>
+    public class PeakRepository : IRepository<IPeak>
     {
         
         private List<IPeak> _all;

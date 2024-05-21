@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Core\\Controller.cs",
               "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\NauticalCatchChallenge-Skeleton\\Core\\Controller.cs",
               "RelativeToolTip": "Core\\Controller.cs",
-              "ViewState": "AQIAAJ4AAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAuwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T00:00:30.389Z",
               "EditorCaption": ""
@@ -96,8 +96,7 @@
               "RelativeToolTip": "Models\\ScubaDiver.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:27:46.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:27:46.492Z"
             },
             {
               "$type": "Document",
@@ -109,8 +108,7 @@
               "RelativeToolTip": "Models\\Diver.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAYwFoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:43:56.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:43:56.325Z"
             },
             {
               "$type": "Document",
@@ -122,8 +120,7 @@
               "RelativeToolTip": "Models\\Fish.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAqwDIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T21:13:36.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T21:13:36.229Z"
             },
             {
               "$type": "Document",
@@ -135,8 +132,7 @@
               "RelativeToolTip": "Repositories\\FishRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:42:21.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:42:21.232Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Models\\FreeDiver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T23:27:31.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T23:27:31.208Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "Models\\DeepSeaFish.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:34:25.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:34:25.784Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "Models\\PredatoryFish.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:34:13.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:34:13.375Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "Models\\ReefFish.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:33:54.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T22:33:54.404Z"
             },
             {
               "$type": "Document",

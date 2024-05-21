@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace HighwayToPeak.Repositories
 {
-    internal class ClimberRepository : IRepository<IClimber>
+    public class ClimberRepository : IRepository<IClimber>
     {
         private List<IClimber> _all;
 

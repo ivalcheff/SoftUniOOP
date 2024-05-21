@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\models\\mortgageloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\mortgageloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikol\\desktop\\softuni\\oop\\softunioop\\bankloan_skeleton_netcoreapp6.0\\bankloan\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MortgageLoan.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\MortgageLoan.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\MortgageLoan.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\MortgageLoan.cs",
+              "RelativeToolTip": "BankLoan\\Models\\MortgageLoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:29:57.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Student.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:24:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Loan.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:11:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Client.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Client.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:11:08.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Models\\Bank.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Bank.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:10:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Core\\Engine.cs",
+              "RelativeToolTip": "BankLoan\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:09:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\nikol\\Desktop\\SoftUni\\OOP\\SoftUniOOP\\BankLoan_Skeleton_netcoreapp6.0\\BankLoan\\Core\\Controller.cs",
+              "RelativeToolTip": "BankLoan\\Core\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:09:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
